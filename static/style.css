@@ -1,0 +1,28 @@
+.contain {
+    width: 800px;
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+}
+.row {
+    width: 800px;
+    height: 100px;
+    display: flex;
+    
+}
+.row2 {
+    width: 800px;
+    height: 100px;
+    display: flex;
+}
+.block{
+    background-color: black;
+    width: 100px;
+    height: 100px;
+}
+.block2{
+    background-color: rgb(189, 26, 26);
+    width: 100px;
+    height: 100px;
+}
+
